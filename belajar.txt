@@ -3,3 +3,5 @@ materi PTI
 2. komponen komputer
 3. sistem bilangan 
 4. konversi bilangan 
+5. aplikasi word I
+6. aplikasi word II

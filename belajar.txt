@@ -1,0 +1,5 @@
+materi PTI
+1. pengenalan sistem komputer
+2. komponen komputer
+3. sistem bilangan 
+4. konversi bilangan 
